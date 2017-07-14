@@ -2,8 +2,8 @@
 
 #End of Jason Added
 
-baseurl = "https://jkuruzovich.github.io"  # End your URL with a `/` trailing slash.
-title = "Launch"
+baseurl = "http://jasonkuruzovich.com"  # End your URL with a `/` trailing slash.
+title = ""
 copyright = "&copy; 2017 Jason Kuruzovich"
 theme = "academic"
 enableEmoji = true
@@ -23,21 +23,21 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
-  organization_url = ""
+  name = "Jason Kuruzovich"
+  role = "Associate Professor of Business Analytics & Director of the Severino Center for Technological Entrepreneurship"
+  organization = "Rensselaer Polytechnic Institute"
+  organization_url = "www.rpi.edu"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "kuruzj - at - rpi.edu"
+  address = "Severino Center, Pittsburgh Building, 110 8th Street, Troy, NY 12180-3590"
+  office_hours = "Email for appointment"
+  phone = ""
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
-  keybase = ""
+  keybase = "jasonkuruzovich"
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -53,6 +53,7 @@ defaultContentLanguageInSubdir = false
   #     override it for a particular page in that page's preamble.
   #
   #     Example: highlight = true
+  highlight = true
   #
   #   highlight_languages
   #     Add support for highlighting additional languages. Support for
@@ -61,13 +62,14 @@ defaultContentLanguageInSubdir = false
   #     page's preamble.
   #
   #     Example: highlight_languages = ["go", "lisp", "ocaml"]
+  highlight_languages = ["python", "R", "bash"]
   #
   #   highlight_style
   #     Choose a different CSS style for highlighting source
   #     code. Setting this option in a page's preamble has no
   #     effect.
   #
-  #     Example: highlight_style = "github-gist"
+  #     Example: 
   #
   #   highlight_version
   #     Choose the version of highlight.js you want. Setting this
@@ -81,8 +83,8 @@ defaultContentLanguageInSubdir = false
   #   For more info on the highlighting options, see:
   #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
-  # highlight_style = "github"
+  highlight_languages = ["python", "R", "bash"]
+   highlight_style = "github"
   # highlight_version = "9.9.0"
 
   # Enable native social sharing buttons?
@@ -104,7 +106,7 @@ defaultContentLanguageInSubdir = false
     'Conference proceedings',  # 1
     'Journal',  # 2
     'Work in progress',  # 3
-    'Technical report',  # 4
+    'Practitioner articles',  # 4
     'Book',  # 5
     'Book chapter'  # 6
   ]
@@ -130,22 +132,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:kuruzj-at-rpi.edu"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/jasonkuruzovich"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?hl=en&user=igS3fFIAAAAJ&scilu=10098309356080913932:0&scisig=AMstHGQAAAAAWWkUiq2QBVr2L8_qnKJWkUOfs9j5XShn&gmla=AJsN-F6QgpZg7Slm5HRpei5EoX_2LeZHY2L6n7mIPvk-SYcxcQX4sibSmWWVw0SuCmM2Bpz_jtyP6ai0jhIkHfaNtKUKIuu8F7Y0_iM_6JTErknYUEWmJH0&sciund=7513574309612549990"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/jkuruzovich"
 
 
 # Navigation Links
