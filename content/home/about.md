@@ -25,12 +25,10 @@ weight = 1
 
 [[education.courses]]
   course = "BS in "
-  institution = "Massachusetts Institute of Technology"
+  institution = "Lafayette College"
   year = 1996
 +++
 
 # Biography
 
-I'm a professor of business analytics at Rensellaer Polyte
-
-Rensselaer Polytechnic Institute 
+I'm a professor of business analytics at Rensselaer Polytechnic Institute.

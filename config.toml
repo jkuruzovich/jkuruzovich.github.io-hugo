@@ -53,16 +53,15 @@ defaultContentLanguageInSubdir = false
   #     override it for a particular page in that page's preamble.
   #
   #     Example: highlight = true
-  highlight = true
   #
   #   highlight_languages
-  #     Add support for highlighting additional languages. Support for
+  #     Add support for highlighting additional languages. Support #for
   #     languages mentioned here will be included in all pages. You
   #     can also set this variable for a particular page in that
   #     page's preamble.
   #
   #     Example: highlight_languages = ["go", "lisp", "ocaml"]
-  highlight_languages = ["python", "R", "bash"]
+  #highlight_languages = ["python", "R", "bash"]
   #
   #   highlight_style
   #     Choose a different CSS style for highlighting source
@@ -81,10 +80,10 @@ defaultContentLanguageInSubdir = false
   #   https://cdnjs.com/libraries/highlight.js/
   #
   #   For more info on the highlighting options, see:
-  #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
+  #   #https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
   highlight = true
   highlight_languages = ["python", "R", "bash"]
-   highlight_style = "github"
+  highlight_style = "github"
   # highlight_version = "9.9.0"
 
   # Enable native social sharing buttons?
