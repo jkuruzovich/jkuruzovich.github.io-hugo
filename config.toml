@@ -1,5 +1,5 @@
 #Start of Jason Added
-publishDir = "docs"
+
 #End of Jason Added
 
 baseurl = "http://jkuruzovich.github.io/jasonkuruzovich.com/"  # End your URL with a `/` trailing slash.
