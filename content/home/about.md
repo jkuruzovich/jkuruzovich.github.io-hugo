@@ -12,9 +12,10 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
+    "Platforms",
     "Entrepreneurship",
-    "Online Platforms"
+    "Analytics",
+    "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,11 +25,11 @@ weight = 1
   year = 2006
 
 [[education.courses]]
-  course = "BS in "
+  course = "BS in Chemical Engineering "
   institution = "Lafayette College"
   year = 1996
 +++
 
 # Biography
 
-I'm a professor of business analytics at Rensselaer Polytechnic Institute.
+I'm a professor of business analytics at Rensselaer Polytechnic Institute and the Director of the Severino Center for Technological Entrepreneurship.  
