@@ -2,7 +2,7 @@
 
 #End of Jason Added
 
-baseurl = "http://jkuruzovich.github.io/jasonkuruzovich.com/"  # End your URL with a `/` trailing slash.
+baseurl = "https://jkuruzovich.github.io"  # End your URL with a `/` trailing slash.
 title = "Launch"
 copyright = "&copy; 2017 Jason Kuruzovich"
 theme = "academic"
