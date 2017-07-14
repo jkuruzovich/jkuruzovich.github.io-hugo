@@ -26,9 +26,9 @@ defaultContentLanguageInSubdir = false
   name = "Jason Kuruzovich"
   role = "Associate Professor of Business Analytics & Director of the Severino Center for Technological Entrepreneurship"
   organization = "Rensselaer Polytechnic Institute"
-  organization_url = "www.rpi.edu"
+  organization_url = "http://www.rpi.edu"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "kuruzj - at - rpi.edu"
   address = "Severino Center, Pittsburgh Building, 110 8th Street, Troy, NY 12180-3590"
   office_hours = "Email for appointment"
@@ -160,23 +160,23 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
-[[menu.main]]
-  name = "Projects"
+  name = "Research"
   url = "#projects"
-  weight = 4
+  weight = 2
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
+  weight = 3
+
+[[menu.main]]
+  name = "Entrepreneurship"
+  url = "#entrepreneurship"
+  weight = 4
+
+[[menu.main]]
+  name = "Blog"
+  url = "#posts"
   weight = 5
 
 [[menu.main]]
