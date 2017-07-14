@@ -1,11 +1,11 @@
 +++
-# Recent Posts widget.
-# This widget displays recent posts from `content/post/`.
+# Recent Blog Posts widget.
+# This widget displays Recent Blog Posts from `content/post/`.
 
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Recent Posts"
+title = "Recent Blog Posts"
 subtitle = ""
 widget = "posts"
 
