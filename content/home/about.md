@@ -32,4 +32,8 @@ weight = 1
 
 # Biography
 
-I'm a professor of business analytics at Rensselaer Polytechnic Institute and the Director of the Severino Center for Technological Entrepreneurship.  
+I'm a professor of business analytics at Rensselaer Polytechnic Institute and the Director of the Severino Center for Technological Entrepreneurship. 
+
+I study complex socio-technical systems with an emphasis on the ways that information and information systems change business processes.  
+
+
