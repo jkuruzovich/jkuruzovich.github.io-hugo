@@ -2,7 +2,7 @@
 
 #End of Jason Added
 
-baseurl = "http://jasonkuruzovich.com"  # End your URL with a `/` trailing slash.
+baseurl = "http://jasonkuruzovich.com/"  # End your URL with a `/` trailing slash.
 title = ""
 copyright = "&copy; 2017 Jason Kuruzovich"
 theme = "academic"
